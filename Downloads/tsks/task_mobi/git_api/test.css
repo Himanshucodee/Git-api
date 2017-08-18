@@ -1,0 +1,17 @@
+.vname{
+    padding:10px 70px;
+    background: transparent;
+    border-radius:4px;
+    border:1px solid grey;
+    width:100%;
+}
+.vlist{
+    float:left !important;
+}
+.main-content{
+    margin-top:100px;
+}
+.card{
+    border:1px solid #000;
+    background: red;
+}
